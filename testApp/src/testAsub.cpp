@@ -2,6 +2,7 @@
 
 #include <registryFunction.h>
 #include <epicsExport.h>
+#include <cstring>
 
 static long foo(aSubRecord *prec){
     double arr[2];

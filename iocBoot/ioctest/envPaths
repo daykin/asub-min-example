@@ -1,3 +1,3 @@
 epicsEnvSet("IOC","ioctest")
-epicsEnvSet("TOP","C:/Users/daykin/git/testIoc")
-epicsEnvSet("EPICS_BASE","C:/epics")
+epicsEnvSet("TOP","/home/evan/git/asub-min-example")
+epicsEnvSet("EPICS_BASE","/usr/lib/epics")
