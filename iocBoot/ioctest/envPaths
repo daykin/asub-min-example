@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","ioctest")
+epicsEnvSet("TOP","C:/Users/daykin/git/testIoc")
+epicsEnvSet("EPICS_BASE","C:/epics")

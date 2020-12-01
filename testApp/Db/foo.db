@@ -1,0 +1,14 @@
+record(aSub, "fooSub"){
+    field(PINI, "YES")
+    field(SCAN, "1 second")
+    field(SNAM, "foo")
+    field(OUTA, "A PP MS")
+    field(FTVA, "DOUBLE")
+    field(NOVA, "2")
+}
+
+#this is populated by the aSub record
+record(waveform, "A"){
+    field(NELM, "2")
+    field(FTVL, "DOUBLE")
+}
